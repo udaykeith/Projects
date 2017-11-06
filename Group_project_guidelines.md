@@ -7,7 +7,7 @@ A common and classic approach to a Data Science project is the CRISP-DM model co
  We recommend that students use the above methodological approach in the project. For further details: https://www.sv-europe.com/crisp-dm-methodology/ 
 
 **Presentation Guidelines**               
-Golden Rules for any Data Science presentation:
+*Golden Rules for any Data Science presentation:*
 
 1. Every group project should be presented in a PPT format. The idea is for the project to be presentable to individuals with both technical and non-technical backgrounds as if it were an interview or a Meetup.     
 2. No code snippets! : Your presentation is less an opportunity to demonstrate your ability to code and more a chance to show your holistic thinking. Code snippets should only be included if they further clarify your approach or results.   
