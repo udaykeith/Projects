@@ -34,4 +34,6 @@
 2) Evaluation: Get the lowest possible Root Mean Squared Error (RMSE)
 
 
+For any questions or clarifaction please reach out to Uday Keith on slack or @ uday.keith@byteacademy.co
+
 
