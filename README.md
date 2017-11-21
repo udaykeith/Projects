@@ -2,8 +2,8 @@
 
 This is a one-stop shop for all your group and final project needs. 
 
-[Group Project Guidlines](Group_project_guidelines.md)    
-Final Project Guidelines   
+[Group Project Guidlines(DS)](Group_project_guidelines.md)    
+[Final Project Guidelines(DS)]   
 
 While we encourage students to design their own projects, below are some options students can choose from:
 
