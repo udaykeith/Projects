@@ -41,4 +41,10 @@ Example: “While my best RMSE for predicting crime rates was 23, similar studie
 1. Actionable results- If applicable, contextualize your results in a business setting. 
 Example: If your prediction for crime rates is that they will increase in December 2017, and this result is most correlated with the historical shortage of electricity and policemen in the month, you may suggest and calculate how hiring policemen may reduce crime by X%. 
  
+**Submission Rules**
+
+1. All final projects should be uploaded in the Student Projects repository in the ByteAcademyIn organization on Github. Link: https://github.com/ByteAcademyIn/Students-Projects
+2. While submitting, create a folder in the repository with the following name structure: FIRST NAME_PROJECT NAME_COHORT NAME
+3. All files should be uploaded in the folder, including requirements.txt and setup.py files. 
+ 
 
